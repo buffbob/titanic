@@ -2,15 +2,11 @@
 titanic
 =======
 
-
-Add a short description here!
-
+The beginners dataset that has it all!
 
 Description
 ===========
-
-A longer description of your project goes here...
-
+from beginner to advanced using many different data analysis tools and techniques
 
 Note
 ====
